@@ -8,6 +8,7 @@ public class Clasa1 {
 		System.out.println("Buna ziua!");
 		System.out.println("Buna!");
 		System.out.println("Cum esti?");
+		System.out.println("Se poate mai bine.Tu?");
 	}
 
 }
