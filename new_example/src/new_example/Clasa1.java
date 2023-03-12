@@ -12,6 +12,9 @@ public class Clasa1 {
 		
 		System.out.println("------");
 		System.out.println("Have a nice day!!");
+		
+		System.out.println("------");
+		System.out.println("You too!!");
 	}
 
 }
